@@ -1,4 +1,4 @@
-# Penguin Fashion Website
+# Pendy's Attire - An E-commerce Website
 
 A responsive fashion e-commerce landing page built using **Tailwind CSS** and **HTML**.
 
